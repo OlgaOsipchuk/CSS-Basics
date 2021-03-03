@@ -1,0 +1,25 @@
+body {
+    font-family: "Lucida Grande";
+  }
+  
+  h1 {
+    text-align: center;
+  }
+
+  div {
+      color: blue;
+  }
+  #comments-title{
+      font: size 28px;
+  }
+li.super-cool{
+    border: 2px solid red
+
+}
+input[type="text"]{
+    width:200px;
+}
+.crazy.super-cool p{
+    color: teal;
+}
+  
